@@ -4,7 +4,7 @@ core/store.sqlite3
 __pycache__/
 *.py[cod]
 *$py.class
-
+myvenv/
 # C extensions
 *.so
 
